@@ -25,11 +25,7 @@ npm install svg.js svgdom
 
 ## example
 
-<img src="./example.svg" />
-
-----
-
-![example]( ./example.svg )
+<img src="./example.svg" style="width:800px; height:800px;"/>
 
 ### text
 ```
