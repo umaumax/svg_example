@@ -10,7 +10,7 @@ const draw = SVG(document.documentElement)
 var exshape = require('./exshape');
 // ----
 
-var text = draw.text('grid of image\nstep 1. calc xxx\nstep 2. calc yyy\nstep3. calc zzz')
+var text = draw.text('grid of image\nstep 1. calc xxx\nstep 2. calc yyy\nstep 3. calc zzz')
 text.move(100, 50)
 
 var text = draw.text('pt.A (prev impl)')
